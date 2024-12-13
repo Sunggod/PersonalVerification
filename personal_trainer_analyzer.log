@@ -1,0 +1,11 @@
+2024-12-12 19:30:19,378 - WARNING: Texto extraído muito curto, possível perfil com baixa informação
+2024-12-12 19:59:32,041 - INFO: Exclusão detectada: Keyword 'fisioterapia' encontrada
+2024-12-12 20:07:38,675 - INFO: Profissões encontradas: ['fisioterapia', 'reabilitação']
+2024-12-12 20:20:28,500 - INFO: Profissões encontradas: ['terapeuta']
+2024-12-12 20:21:31,773 - INFO: Profissões encontradas: ['terapeuta']
+2024-12-12 20:32:11,705 - INFO: Profissões encontradas: ['terapeuta']
+2024-12-12 20:33:56,321 - INFO: Profissões encontradas: ['terapeuta']
+2024-12-12 20:39:52,157 - INFO: Profissões encontradas: ['terapeuta']
+2024-12-12 20:41:33,056 - INFO: Formação em Educação Física detectada. Ignorando exclusão.
+2024-12-12 20:48:03,581 - INFO: Formação em Educação Física detectada. Ignorando exclusão.
+2024-12-13 19:38:35,496 - INFO: Profissões encontradas: ['nutricionista']
